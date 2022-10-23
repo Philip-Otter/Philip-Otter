@@ -2,7 +2,6 @@
 - 👀 I’m interested in information security!
 - 🌱 I’m currently learning **a lot!**
   - Rust
-  - AWK
   - Working on HTB's CBBH certification path
   - Web application penetration testing
   - Front end web development
