@@ -1,9 +1,9 @@
 # Hey, I’m Philip!
 - 👀 I’m interested in information security!
 - 🌱 I’m currently learning **a lot!**
-  - Rust
+  - Working on HTB's Penetration Tester certification path
   - Working on HTB's CBBH certification path
-  - Web application penetration testing
+  - Working on Boson's CCNA coursework
   - Front end web development
      - Javascript
      - HTML
@@ -11,7 +11,7 @@
   - Better soldering skills
   - hardware hacking
 - 💞️ I’m looking to collaborate on anything interesting really. I love getting to learn new things and spending my free time working with computers.
-- 📫 You can find me on the 🐦 app @2xdropout1 or contact me through my website!
+- 📫 You can find me on the 🐦 app @2xdropout1, on Mastodon @2xdropout.infosec.exchange, or contact me through my website!
 
 <!---
 Philip-Otter/Philip-Otter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
